@@ -1,0 +1,7 @@
+.square {
+}
+
+.square:hover {
+    -fx-background-color: #a3ff83;
+}
+
